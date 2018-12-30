@@ -1,5 +1,6 @@
 import Header from '../components/Header'
-import Link from 'next/link'
+
+console.log('cat');
 
 export default () => (
   <div>

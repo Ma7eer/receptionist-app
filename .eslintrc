@@ -1,0 +1,21 @@
+{
+  "extends": ["react-app", "prettier", "prettier/react"],
+  "plugins": ["prettier"],
+  "rules": {
+    "arrow-spacing": "warn",
+    "block-scoped-var": "warn",
+    "callback-return": "warn",
+    "camelcase": "warn",
+    "comma-dangle": "off",
+    "handle-callback-err": "warn",
+    "vars-on-top": "warn",
+    "semi-style": "off",
+    "quotes": "off",
+    "object-curly-newline": "warn",
+    "no-unreachable": "warn",
+    "no-trailing-spaces": "warn",
+    "no-tabs": "warn",
+    "no-debugger": "warn",
+    "no-console": "warn"
+  }
+}
